@@ -18,10 +18,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.youtube.com/@reactjsBD"><img alt="YouTube @reactjsBD" src="https://img.shields.io/badge/YouTube-%40reactjsBD-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="https://medium.com/@reactbd"><img alt="Medium @reactbd" src="https://img.shields.io/badge/Medium-%40reactbd-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
-  <a href="https://github.com/noorjsdivs"><img alt="GitHub noorjsdivs" src="https://img.shields.io/badge/GitHub-noorjsdivs-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://noormohammad.reactbd.com/"><img alt="Website noormohammad.reactbd.com" src="https://img.shields.io/badge/Website-noormohammad.reactbd.com-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  
 </p>
 
 > [!TIP]
@@ -520,14 +517,7 @@ Found a bug or have an idea? [Open an issue](https://github.com/noorjsdivs/Orbit
 
 ## Author
 
-Hi, I'm **Noor Mohammad**, a software engineer and the founder of ReactBD. I teach React, Next.js and React Native on YouTube and write about AI, careers and money on Medium.
 
-| | |
-| --- | --- |
-| 📺 YouTube | [@reactjsBD](https://www.youtube.com/@reactjsBD) |
-| ✍️ Medium | [@reactbd](https://medium.com/@reactbd) |
-| 💻 GitHub | [noorjsdivs](https://github.com/noorjsdivs) |
-| 🌐 Website | [noormohammad.reactbd.com](https://noormohammad.reactbd.com/) |
 
 If this project helped you, star the repo, subscribe on YouTube and follow on Medium. It really helps.
 
